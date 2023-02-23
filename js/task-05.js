@@ -1,7 +1,7 @@
 //! Task condition:
-// In the markup of the HTML document "task-04.html", to which this JS file (task-04.js) is connected, there is a set of tags:
+// In the markup of the HTML document "task-05.html", to which this JS file (task-05.js) is connected, there is a set of tags:
     // - separate tag "input#name-input" (type="text");
-    // -  - separate <h1> header tag, inside which is the "span#name-output" tag.
+    // - separate <h1> header tag, inside which is the "span#name-output" tag.
 // Taking into account the initial components described above, it is necessary to write a JS script code that:
     // 1. When typing text in the "input#name-input" tag ('input' event), substitutes its current value in the "span#name-output" tag;
     // 2. If the <input> tag is empty, the string "Anonymous" should be displayed in the <span> tag.
