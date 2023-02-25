@@ -1,5 +1,5 @@
 //! Task condition:
-// In the markup of the HTML document "task-08.html", to which this JS file (task-08.js) is connected, there is a set of form tags - "form.login-form". Consisting of the main components: textual input tags and information sending buttons. Using these initial elements of the form, it is necessary to write a JS script code that will be manage this form of the login. At the same time, the control algorithm for this form should:
+// In the markup of the HTML document "task-08.html", to which this JS file (task-08.js) is connected, there is a set of form tags - "form.login-form". Consisting of the main components: textual input tags and information sending button. Using these initial elements of the form, it is necessary to write a JS script code that will be manage this form of the login. At the same time, the control algorithm for this form should:
     // 1. Carry out the operation of sending the form on the event - 'submit'.
     // 2. When sending a form, the current page (tab) of the browser should not be rebooted.
     // 3. If the form has empty fields, then with the help of the "alert()" method, should display a warning message that all form fields must be filled.
